@@ -11,7 +11,7 @@ info:
   license:
     name: GPL-3.0
 servers:
-- url: https://demo.erpnext.com/api
+- url: https://work.mapleleafs.com.sa/api
   description: Demo server
 - url: https://{company}.erpnext.com/api
   description: Custom ERPNext.com instance
