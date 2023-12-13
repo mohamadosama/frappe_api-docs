@@ -12,12 +12,12 @@ info:
     name: GPL-3.0
 servers:
 - url: https://work.mapleleafs.com.sa/api
-- url: https://{company}.erpnext.com/api
-  description: Custom ERPNext.com instance
-  variables:
-    company:
-      default: demo
-      description: Subdomain of your company's custom ERPNext instance
+# - url: https://{company}.erpnext.com/api
+#   description: Custom ERPNext.com instance
+#   variables:
+#     company:
+#       default: demo
+#       description: Subdomain of your company's custom ERPNext instance
 tags: 
   - name: Naive Authentication
     description: If you are developing something serious, you may want to use oAuth2.
